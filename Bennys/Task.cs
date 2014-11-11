@@ -11,6 +11,7 @@ namespace ObjectAssignment
         public Task(string description)
         {
             Console.WriteLine("jabababa");
+            Console.WriteLine("Terminator");
             // A task has a description and a datetime that contains null when the task isn't finished or the date of when the task is finished 
         }
 
