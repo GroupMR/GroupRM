@@ -10,6 +10,7 @@ namespace ObjectAssignment
         public Controller()
         {
             Console.WriteLine("Benny");
+            Console.WriteLine("GIRLS!");
             // Consider what must be done in this constructor
             _items = new List<ToDoItem>();
         }
