@@ -11,6 +11,7 @@ namespace ObjectAssignment
         {
             Console.WriteLine("Benny");
             Console.WriteLine("GIRLS!");
+            Console.WriteLine("Computer scinencesnsnfsdijgbs");
             // Consider what must be done in this constructor
             _items = new List<ToDoItem>();
         }
